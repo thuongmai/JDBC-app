@@ -65,6 +65,7 @@ public class Main {
 //			Statement myStmt = myConn.createStatement();
 //			ResultSet myRs = myStmt.executeQuery(
 //					"SELECT * FROM employees WHERE last_name= '" + lastName + "' AND first_name= '" + firstName + "'");
+			
 			/*Prepared statement
 			 * Benefit:
 			 * - Help improve performance
